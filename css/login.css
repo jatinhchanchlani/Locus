@@ -1,0 +1,29 @@
+.banner-row {
+    background-color: #21BC66
+}
+
+body {
+    background-color: #F1F1F1;
+}
+
+.row-content {
+    margin-top: 20px;
+}
+
+
+/*
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}*/
+
+.new-user {
+    align-self: center;
+}
+
+.inner-row {
+    margin-top: 50px;
+}

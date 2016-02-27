@@ -1,0 +1,64 @@
+.error-block {
+    color: red;
+}
+
+.cropArea {
+    background: #E4E4E4;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    border-style: ridge;
+    margin-top: 20px;
+}
+
+.login-area {
+    background-color: white;
+    border-style: groove;
+    box-shadow: true;
+}
+
+form .progress {
+    line-height: 15px;
+}
+
+.profile-button {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.progress {
+    display: inline-block;
+    width: 100px;
+    border: 3px groove #CCC;
+}
+
+.progress div {
+    font-size: smaller;
+    background: orange;
+    width: 0;
+}
+
+.thumb {
+    width: 24px;
+    height: 24px;
+    float: none;
+    position: relative;
+    top: 7px;
+}
+
+body {
+    background-color: #F1F1F1;
+}
+
+.row-content {
+    margin-top: 20px;
+}
+
+.new-user {
+    align-self: center;
+}
+
+.inner-row {
+    margin-top: 50px;
+}
